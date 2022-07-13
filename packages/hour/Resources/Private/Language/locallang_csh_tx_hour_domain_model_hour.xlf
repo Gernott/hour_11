@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:hour/Resources/Private/Language/locallang_csh_tx_hour_domain_model_hour.xlf" date="2022-07-13T13:54:25Z" product-name="hour">
+		<header/>
+		<body>
+			<trans-unit id="title.description" resname="title.description">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="start.description" resname="start.description">
+				<source>Start</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
